@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(53, 87, 85);
+    color:#c7ae80;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgb(255, 250, 174);
+}
+#massge{
+    font-size: larger;
+    
+}
